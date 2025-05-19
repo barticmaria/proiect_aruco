@@ -48,11 +48,14 @@ This project is a real-time computer vision application built with Python and Op
    pip install opencv-python numpy
 
 2. **Calibrate your camera(s) and save the following files in the project root:**
-    cam_matrix.npy
+   ```bash
+   cam_matrix.npy
     dist_coeffs.npy
     (optional for dual cam) dist_coeffs1.npy
 3. **Run the application:**
-    python meniu_1.py
+    ```bash
+   python meniu_1.py
+    
 This project is the result of laboratory work for the "Proiectarea Algoritmilor" (PA) course at the
 Faculty of Automation, Computers and Electronics (FACE), University of Craiova (http://ace.ucv.ro/).
 
