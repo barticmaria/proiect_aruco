@@ -50,8 +50,8 @@ This project is a real-time computer vision application built with Python and Op
 2. **Calibrate your camera(s) and save the following files in the project root:**
    ```bash
    cam_matrix.npy
-    dist_coeffs.npy
-    (optional for dual cam) dist_coeffs1.npy
+   dist_coeffs.npy
+   (optional for dual cam) dist_coeffs1.npy
 3. **Run the application:**
     ```bash
    python meniu_1.py
